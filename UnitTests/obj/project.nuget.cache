@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0m9SxJoS3Ums4hgoExAXVwEpkFMT0UEtOkx1pGF6SCeB+qyV5HLMFjjM/kFKFoTJRXvzHh7YvWtBe0yK8oYKA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\.net\\api\\UnitTests\\UnitTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'coverlet.collector.3.2.0' from 'https://api.nuget.org/v3-flatcontainer/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg'.\r\nAn error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Microsoft.NET.Test.Sdk.17.5.0' from 'https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg'.\r\nAn error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'xunit.runner.visualstudio.2.4.5' from 'https://api.nuget.org/v3-flatcontainer/xunit.runner.visualstudio/2.4.5/xunit.runner.visualstudio.2.4.5.nupkg'.\r\nAn error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'xunit.2.4.2' from 'https://api.nuget.org/v3-flatcontainer/xunit/2.4.2/xunit.2.4.2.nupkg'.\r\nAn error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'coverlet.collector' from remote source 'https://api.nuget.org/v3-flatcontainer/coverlet.collector/index.json'.",
+      "libraryId": "coverlet.collector"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'xunit' from remote source 'https://api.nuget.org/v3-flatcontainer/xunit/index.json'.",
+      "libraryId": "xunit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NET.Test.Sdk' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/index.json'.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'xunit.runner.visualstudio' from remote source 'https://api.nuget.org/v3-flatcontainer/xunit.runner.visualstudio/index.json'.",
+      "libraryId": "xunit.runner.visualstudio"
+    }
+  ]
+}
